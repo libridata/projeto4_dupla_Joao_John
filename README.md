@@ -1,4 +1,4 @@
-# API de Livros
+# API de Filmes
 
 API REST para consultar e gerenciar filmes e generos, desenvolvida com Django e Django REST Framework com Django-Filter para filtros de pesquisa. Os dados são armazenados em um banco SQLite.
 
